@@ -1,0 +1,23 @@
+HELP FILE
+-------------------------------
+The output for each gate is one.
+The switch value option of the source gate is a pop up button.
+The default value of the source gate is 0.
+We use menu for delete, save, load.
+We have decided about the colors:
+0 – Blue
+1 – Green
+Null/Invalid -Red
+-------------------------------
+Each gate can have more than one output.
+Numbers of input:
+“And” and  “Or” gate : 2
+“Not” gate : 1
+“Sink” gate : 1
+“Source” gate : none
+Connection placing:
+The first selected gate will have the 
+connection  as output and the second as input
+Uses bounding box for all the objects for easier selection.
+Undo is only for actions performed in the circuit.
+--------------------------------
